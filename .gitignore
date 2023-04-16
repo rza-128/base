@@ -1,0 +1,12 @@
+data
+.env
+web/public/Thumbs/Assets/*
+web/public/Thumbs/3D/*
+web/public/Thumbs/Ads/*
+web/public/Thumbs/Avatars/*
+web/public/Thumbs/Games/*
+web/public/Thumbs/PoopServerGame/*
+web/public/Thumbs/Headshots/*
+web/public/Thumbs/Groups/*
+web/public/Assets/*
+crapblox_18.sql
